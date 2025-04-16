@@ -50,7 +50,7 @@
 
 ## 📫 Liên hệ
 
-**Nguyễn Sáo**  
+**Nguyễn Sao**  
 📧 Email: nguyensao@example.com  
 📱 SĐT: 0123 456 789  
 📍 Github: [github.com/nguyensao](https://github.com/nguyensao)
