@@ -51,8 +51,8 @@
 ## 📫 Liên hệ
 
 **Nguyễn Sao**  
-📧 Email: nguyensao@example.com  
-📱 SĐT: 0123 456 789  
+📧 Email: nguyensaovn2019@gmail.com
+📱 SĐT: 039 244 5255
 📍 Github: [github.com/nguyensao](https://github.com/nguyensao)
 
 ---
